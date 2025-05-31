@@ -49,7 +49,7 @@ html {
     /*非常吃性能,低配手机会卡顿*/
     /*卡片模糊背景＋黑色透明卡片+白色svg**/
     --svgcolor: #ffffff;
-    --main-bg-color: url(https://www.helloimg.com/i/2025/01/15/6786a98433ff9.jpg);
+    --main-bg-color: url(https://img.dexbug.com/i/2025/05/31/iqagt5.jpg);
     --main-text-color: #eeeeee;
     --gradient-start: #bd34fe;
     --gradient-middle: #e0321b;
@@ -71,7 +71,7 @@ html {
 html {
     /*图片模糊背景＋白色透明卡片+黑色svg*/
     --svgcolor: #000000;
-    --main-bg-color: url(https://www.helloimg.com/i/2025/01/15/6786a98433ff9.jpg);
+    --main-bg-color: url(https://img.dexbug.com/i/2025/05/31/iqagt5.jpg);
     --main-text-color: #000000;
     --gradient-start: #bd34fe;
     --gradient-middle: #e0321b;
@@ -133,7 +133,7 @@ html {
 html {
     /*图片模糊背景＋黑色透明卡片+白色svg**/t
     --svgcolor: #ffffff;
-    --main-bg-color: url(https://www.helloimg.com/i/2025/01/15/6786a98433ff9.jpg);
+    --main-bg-color: url(https://img.dexbug.com/i/2025/05/31/iqagt5.jpg);
     --main-text-color: #eeeeee;
     --gradient-start: #bd34fe;
     --gradient-middle: #e0321b;
